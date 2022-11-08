@@ -1,0 +1,2 @@
+SELECT  'HELLO' FROM DUAL;
+--한글테스트
